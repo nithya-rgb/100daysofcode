@@ -4,9 +4,9 @@ float length, breadth, area, perimeter;
 
   int a;
 printf("enter length:");
-scanf("%d", &length);
+scanf("%f", &length);
 printf("enter breadth:");
-scanf("%d", &breadth);
+scanf("%f", &breadth);
 area = length*breadth;
 perimeter = 2*(length+breadth);
 printf("area=%.2f\n", area);
