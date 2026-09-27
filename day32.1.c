@@ -5,7 +5,7 @@ printf("enter 3 numbers from first array:");
 for(i=0;i<3;i++){
 scanf("%d",&arr1[i]);
 }
-printf("enter 2 numbers from 2 array:");
+printf("enter 2 numbers from second array:");
 for(i=0;i<2;i++){
 scanf("%d",&arr2[i]);
 }
