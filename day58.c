@@ -4,7 +4,7 @@ int main() {
     int nums[100];
     int answer[100];
     int n;
-
+ 
     printf("Enter number of elements: ");
     scanf("%d", &n);
 
